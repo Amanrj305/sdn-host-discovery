@@ -1,4 +1,4 @@
-﻿# SDN Host Discovery Service using Ryu Controller
+﻿# Host Discovery Service in SDN using Ryu Controller
 
 ##  Project Overview
 
